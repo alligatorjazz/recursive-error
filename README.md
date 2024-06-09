@@ -1,0 +1,1 @@
+Made for issue [3560](https://github.com/colinhacks/zod/issues/3560).
